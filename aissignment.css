@@ -1,0 +1,59 @@
+div{
+  background-color: #e03737;
+  width: 300px;
+  height: 200px;
+  border-radius: 100%; 
+  margin: 100px;
+}
+.control{
+  background-color: #00ffff;
+  width: 300px;
+  height: 200px;
+  margin: 40px, 15px 30px 40px;
+}
+.one {
+
+  width: 300px;
+
+  height: 200px;
+
+  background-color: rgb(255, 0, 0); /* Red */
+
+}
+
+.two {
+
+  width: 300px;
+
+  height: 200px;
+margin:2px;
+text-align:center;
+
+  background-color: rgba(0, 155, 10, 0.1); /* Green with 0.1% opacity */
+
+}
+
+.three{
+
+  width: 300px;
+
+  height: 200px;
+
+  background-color: #ff6900; /* Hex color (6-digit) */
+
+}
+
+.four{
+
+  width: 300px;
+
+  height: 200px;
+
+  background-color: #00f; /* Hex color (3-digit) */
+
+}
+
+body{
+float: flex;
+margin:5px;}
+  
